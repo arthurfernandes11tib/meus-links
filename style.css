@@ -52,15 +52,23 @@ div strong {
   }
 
   div a+a {
+    margin-top: 16px;
 
   }
 
   div a {
     display: block;
-    margin-top: 16px;
     text-decoration: none;
     background-color: #333;
     padding: 12px;
     border-radius: 8px;
     font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  div a:houver {
+    background-color: #c4f82a;
+    color:#141414;
+    transitation: 0.7s;
   }
