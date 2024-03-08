@@ -67,8 +67,9 @@ div strong {
     line-height: 21px;
   }
 
-  div a:houver {
+
+  div a:hover {
     background-color: #c4f82a;
     color:#141414;
-    transitation: 0.7s;
+    transition: 0.7s;
   }
